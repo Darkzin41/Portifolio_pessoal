@@ -2,7 +2,7 @@ Portfólio — Ariel Asafe
 
 Podendo ser acessado também pelo figma: https://www.figma.com/make/lMWGIg6Oonh62Xda3f4xSl/Portfolio-project-structure?t=uTlRFFuDj1zYaCrV-1
 
-no figma make está imcompleto, as alterações visuais foram feitas em códigos.
+no figma make está imcompleto, muita dificuldades da IA do figma compreender as mudanças de organização visual, portanto as alterações visuais foram feitas em códigos.
 
 Portfólio pessoal de **Ariel Asafe**, desenvolvedor de software com atuação em desenvolvimento Full Stack, Python, automação e inteligência artificial.
 
